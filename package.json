@@ -2,7 +2,9 @@
   "name": "@nx-monorepo/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "private": true,
   "dependencies": {
     "react": "18.3.1",
